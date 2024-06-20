@@ -1,0 +1,142 @@
+*{
+    text-decoration: none;
+    margin-left: 23px;
+    margin-top: 10px;
+}
+
+.main{display:flex;
+    width:100%;
+   font-weight: bold;
+   font-size: 25px;
+  
+   
+}
+#logo{
+    margin-top: 0px;
+    font-size: 35px;
+    color:rgb(65, 59, 59);
+    margin-right: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+#home{
+    color: rgb(65, 59, 59);
+    margin-right: 50px;
+
+}
+#Blog{
+    color: rgb(65, 59, 59);
+    margin-right: 50px;
+
+}#about{
+    color: rgb(65, 59, 59);
+    margin-right: 50px;
+
+}#portfolio{
+    color: rgb(65, 59, 59);
+    margin-right: 50px;
+
+}#contact{
+    color: rgb(65, 59, 59);
+    margin-right:50px;
+
+}
+#talk{
+
+    float: right;
+    color: white;
+    background-color: blueviolet;
+    padding-top:5px ;
+    width: 90px;
+    height: 30px;
+    font-size: 18px;
+    border-radius: 5px;
+    text-align: center;
+
+}
+h1{margin-left:66px ;
+   font-weight: bold; 
+    color: rgb(65, 59, 59);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h2{ margin-top: -20px;
+    margin-left: 66px;
+    color: rgb(65, 59, 59);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p{  margin-left: 66px;
+    width: 400px;
+}
+#box1{
+    font-weight: bolder;
+    color: white;
+    background-color: blueviolet;
+    width: 100px;
+    height: 30px;
+    margin-left:66px;
+    display:inline-block;
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+#box2{
+color: blueviolet;
+font-weight: bolder;
+    width: 100px;
+    height: 30px;
+    margin-left:50px;
+   display: inline-block;
+   border: 2px solid blueviolet;
+   padding-top: 10px;
+   padding-left: 10px;
+}
+#two{
+    display: inline-block;
+    height: 30px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: blueviolet;
+    margin-left:40px;
+    padding-top: 10px;
+    text-align: center;color: white;
+}
+#three{
+    display: inline-block;
+    height: 30px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: blueviolet;
+    padding-top: 10px; text-align: center;color: white;
+}
+#four{
+    display: inline-block;
+    height: 30px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: blueviolet;
+    padding-top: 10px; text-align: center;
+    color: white;
+}
+
+.fa-linkedin{
+   font-size: 20px;
+   background-color: white;
+    color: blueviolet;
+}
+.fa-square-facebook{
+    font-size: 20px;
+    background-color: white;
+     color: blueviolet;
+ }
+ .fa-square-twitter{
+    font-size: 20px;
+    background-color: white;
+     color: blueviolet;
+ }
+ img{
+    float: right;
+    margin-right: 240px;
+    margin-top: -10px;
+    border: 3px solid blueviolet;
+ }
